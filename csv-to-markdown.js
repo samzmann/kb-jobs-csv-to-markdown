@@ -27,7 +27,25 @@ async function copyToClipboard(data) {
   }
 }
 
-function entryTemplate(role, circle, thisYearContact, description, playbookLink) {
+const formatImportanceNotice = (importance) => {
+  const [level, label] = importance.split(' - ');
+  if (level === '1') {
+    return `**Importance:** 🔥 ${label} (aka This MUST be done for KB to happen!)\n`;
+  }
+  if (level === '2') {
+    return `**Importance:** ✋ ${label} (aka Shit will get nasty if this is not done...)\n`;
+  }
+  return null
+}
+
+function entryTemplate({
+  circle,
+  description,
+  importance,
+  playbookLink,
+  role,
+  thisYearContact,
+}) {
   const title = `# ${role}`;
 
   const metadataTable = `
@@ -35,6 +53,10 @@ function entryTemplate(role, circle, thisYearContact, description, playbookLink)
 | ------------ | --------------- |
 | ${circle}    | ${thisYearContact || '@samzmann'} |
 `;
+
+  const importanceNotice = importance
+    ? formatImportanceNotice(importance)
+    : "";
 
   const formattedDescription = description
     .replace("Main responsibilities:", "### Main responsibilities")
@@ -53,6 +75,7 @@ function entryTemplate(role, circle, thisYearContact, description, playbookLink)
   return `
 ${title}
 ${metadataTable}
+${importanceNotice}
 ${formattedDescription}
 ${learnMore}
 ${separator}
@@ -78,25 +101,40 @@ If you wanna post an open role to this page, read the documentation [here](https
 ------------
 
 `
-} 
-  
+}
+
 
 // Format the data as Markdown
 function formatMarkdown(entries) {
     let markdown = getPageIntroMardown();
     entries.forEach((entry) => {
-      const { Role, Circle, 'This year contact': thisYearContacts, Description, 'Playbook link': playbookLink, Status } = entry;
-      
+      const {
+        'Playbook link': playbookLink,
+        'This year contact': thisYearContacts,
+        Circle,
+        Description,
+        Importance,
+        Role,
+        Status
+      } = entry;
+
       if (Status !== "Open") {
         return
       }
 
-      const formattedEntry = entryTemplate(Role, Circle, thisYearContacts, Description, playbookLink);
+      const formattedEntry = entryTemplate({
+        circle: Circle,
+        description: Description,
+        importance: Importance,
+        playbookLink,
+        role: Role,
+        thisYearContacts,
+      });
       markdown += formattedEntry;
     });
     return markdown;
   }
-  
+
 
 
 const csvUrl = 'https://docs.google.com/spreadsheets/d/1D3V15hz2pW_Or9iCVGGAhC62PuxRG4IyQGT9yqjG4gU/export?format=csv&gid=0';
