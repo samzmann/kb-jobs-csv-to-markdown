@@ -35,7 +35,10 @@ const formatImportanceNotice = (importance) => {
   if (level === '2') {
     return `**Importance:** ✋ ${label} (aka Shit will get nasty if this is not done...)\n`;
   }
-  return null
+  if (level === '3') {
+    return `**Importance:** ${label} (This is kinda taken care of, but we'd really appreciate support!)\n`;
+  }
+  return ""
 }
 
 function entryTemplate({
@@ -100,13 +103,35 @@ If you wanna post an open role to this page, read the documentation [here](https
 
 ------------
 
+# Tickets
+⚠️ We are holding tickets for people who take on important orga roles. If you wanna support but could not purchase a ticket, reach out to @samzmann and we will make a ticket available for you!
+
 `
+}
+
+const getHighPriorityRolesMarkdown = (entries) => {
+  const highPriorityEntries = entries.filter((entry) => entry.Status === "Open" && entry.Importance.startsWith("1 - Event critical"))
+
+  if (highPriorityEntries.length === 0) {
+    return ""
+  }
+
+  let markdown = `## Super high priority roles\n\n`
+
+  highPriorityEntries.forEach((entry) => {
+    markdown += `🔴 ${entry.Role}\n\n`
+  })
+
+  return markdown
 }
 
 
 // Format the data as Markdown
 function formatMarkdown(entries) {
     let markdown = getPageIntroMardown();
+
+    markdown += getHighPriorityRolesMarkdown(entries);
+
     entries.forEach((entry) => {
       const {
         'Playbook link': playbookLink,

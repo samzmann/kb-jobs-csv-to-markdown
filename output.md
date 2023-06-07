@@ -15,6 +15,86 @@ If you wanna post an open role to this page, read the documentation [here](https
 
 ------------
 
+# Tickets
+⚠️ We are holding tickets for people who take on important orga roles. If you wanna support but could not purchase a ticket, reach out to @samzmann and we will make a ticket available for you!
+
+## Super high priority roles
+
+🔴 Production Transport (possibly 2 people)
+
+🔴 Toilet Co-leads
+
+🔴 Security Lead
+
+🔴 Site liaison assistant
+
+
+# Production Transport (possibly 2 people)
+
+| Circle       | 👇 Contact to apply 👇 |
+| ------------ | --------------- |
+| Infrastructure    | @samzmann |
+
+**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
+
+- Coordinate the transportation of a large volume of equipment from Berlin and our storage location to Freiland, and back after the event.
+- Coordinate with other leads to see what transportation needs they have.
+Requirement:
+- a regular driver’s license
+- be comfortable with driving a large van/small truck
+
+
+
+  
+  ------
+  
+  
+
+# Toilet Co-leads
+
+| Circle       | 👇 Contact to apply 👇 |
+| ------------ | --------------- |
+| Infrastructure    | @samzmann |
+
+**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
+
+### Main responsibilities
+- Co-Lead with Jack to get the shit sorted
+- coordinate and organize bringing sanitation & related equipment/consumables on-site and off-site
+- coordinate the [Shit Ninja Rota](https://wiki.kiezburn.org/doc/shit-ninja-rota-iJnczQPFt3) to keep the toilets clean and re-stacked with the consumables (e.g. toilet paper) during the event
+- liaise pre-event with others, such as finance realizer regarding costs and budget 
+- Training of shit-ninjas online and on-site
+### Requirements
+- 20hrs of time (flexible) pre-event
+- method of independent transport (car/van) ideal but not required (e.g. for emergency purchases)
+## Learn more
+https://wiki.kiezburn.org/doc/toilets-Jm6tboWTt9
+
+
+  
+  ------
+  
+  
+
+# Security Lead
+
+| Circle       | 👇 Contact to apply 👇 |
+| ------------ | --------------- |
+| Safety Blanket    | @samzmann |
+
+**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
+
+Get in touch with the security company and make sure they have what they need on site.
+### Requirements
+- Speak German
+- Resilience to toxic masculinity
+
+
+
+  
+  ------
+  
+  
 
 # Site liaison assistant
 
@@ -40,57 +120,13 @@ https://wiki.kiezburn.org/doc/site-liaison-0s2IonUk9Z
   
   
 
-# Event Permit
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Hard Facts    | @samzmann |
-
-**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
-
-- Get in touch with the relevant Amt to acquire the proper permits to make Kiez Burn legal.
-### Requirements
-- You must speak good German (aka understand Administrative level stuff)
-
-
-
-  
-  ------
-  
-  
-
-# Toilet Co-leads
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Infrastructure    | @samzmann |
-
-**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
-
-### Main responsibilities
-- coordinate and organize bringing sanitation & related equipment/consumables on-site and off-site
-- coordinate the [Shit Ninja Rota](https://wiki.kiezburn.org/doc/shit-ninja-rota-iJnczQPFt3) to keep the toilets clean and re-stacked with the consumables (e.g. toilet paper) during the event
-- liaise pre-event with others, such as finance realizer regarding costs and budget 
-- Training of shit-ninjas online and on-site
-### Requirements
-- 20hrs of time (flexible) pre-event
-- method of independent transport (car/van) ideal but not required (e.g. for emergency purchases)
-## Learn more
-https://wiki.kiezburn.org/doc/toilets-Jm6tboWTt9
-
-
-  
-  ------
-  
-  
-
 # Sustainability team- leave no one behind 
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
 | Infrastructure    | @samzmann |
 
-**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
+**Importance:** ✋ Too Big To Fail (aka Shit will get nasty if this is not done...)
 
 You’ll be co-leading with us - Ancka (Anca Stefan) and David Bossek, our expert in sustainability and work together with Erez, Lead and with other LNT team mates from Kieze.
 ### Main responsibilities
@@ -114,19 +150,16 @@ Be part of the change with us and help plan solutions (infrastructure, for examp
   
   
 
-# Sound Protocol
+# Survival Guide
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| Safety Blanket    | @samzmann |
+| Creative    | @samzmann |
 
-**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
+**Importance:** Nice to have (This is kinda taken care of, but we'd really appreciate support!)
 
-- You’ll be the one making sure we don’t get any sound complaints.
-- Get in touch with sound camps to communicate the sound restriction that apply to the site
-- Do sound tests and measuring the sound impact of the sound camps
-- Make sure we don’t get complaints
-
+Update the existing Survival Guide and communicate it to participants.
+The current guide is pretty complete, so this is a pretty easy peasy role.
 
 
   
@@ -134,63 +167,18 @@ Be part of the change with us and help plan solutions (infrastructure, for examp
   
   
 
-# Security
+# Event Permit Co-lead
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| Safety Blanket    | @samzmann |
+| Hard Facts    | @samzmann |
 
-**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
+**Importance:** Nice to have (This is kinda taken care of, but we'd really appreciate support!)
 
-Get in touch with the security company and make sure they have what they need on site.
+- Assit Ancka and the Board with administrative procedures to make Kiez Burn legal, for example: get in touch with the relevant Amt to acquire the proper permits.
 ### Requirements
-- Speak German
-- Resilience to toxic masculinity
+- You must speak good German (aka understand Administrative level stuff)
 
-
-
-  
-  ------
-  
-  
-
-# Fire Safety Lead
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Safety Blanket    | @samzmann |
-
-**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
-
-You will be the one calling the shots, what our rules for Fire Safety will be for the Event, it’s also a liaison position for the local Fire Department and making sure that they have everything, as they will be guarding us.
-### Main responsibilities
-- Making sure that our Fire Safety rules are up to date and make sense. 
-- Make sure that we have a good relationship with the local Fire Department 
-### Requirements
-- german and english reasonable fluent 
-- Attending the actual event, preferably beeing there for build 
-## Learn more
-https://wiki.kiezburn.org/doc/fire-safety-SAnsYgQwYa
-
-
-  
-  ------
-  
-  
-
-# Gate Lead
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Arrival    | @samzmann |
-
-**Importance:** ✋ Too Big To Fail (aka Shit will get nasty if this is not done...)
-
-Coordinate the construction of The Gate through which people enter Kiez Burn.
-Work closely with the Greeters Lead to conceptualize the Gate Passage experience.
-This role can be taken by a person or a camp.
-## Learn more
-https://wiki.kiezburn.org/doc/gate-Bw1SyjkajY
 
 
   
@@ -204,7 +192,7 @@ https://wiki.kiezburn.org/doc/gate-Bw1SyjkajY
 | ------------ | --------------- |
 | No Footprint    | @samzmann |
 
-**Importance:** ✋ Too Big To Fail (aka Shit will get nasty if this is not done...)
+**Importance:** Nice to have (This is kinda taken care of, but we'd really appreciate support!)
 
 - Collaborate with Erez in building a plan to reduce the eco-footprint of Kiezburn
 - Be in touch with the LNT leads of the camps - help them plan and inspire them for action!
@@ -260,60 +248,6 @@ https://wiki.kiezburn.org/doc/permit-categories-cTvMRZBYWV
   
   
 
-# Communicorns assistant
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Communicorns    | @samzmann |
-
-
-Help our amazing Communicorns team formulate and spread the good word of Kiez Burn throughout our various channels (Telegram, email, Discord, etc.)
-You are:
-- a good communicator
-- able to wrap complex ideas in a few words
-
-
-  
-  ------
-  
-  
-
-# Dreams Leads (2 people)
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Creative    | @samzmann |
-
-
-Allow the Magic to happen at Kiez Burn!!!
-Super important role!!!
-Accompany the Dreamers into the realization of their Dreams: help people formulate their Dreams projects, go through the application process, financing, and placement on the site.
-You’ll have responsibilities before, during, and after the event.
-## Learn more
-https://wiki.kiezburn.org/doc/dreams-3xWOyL398o
-
-
-  
-  ------
-  
-  
-
-# Survival Guide
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Creative    | @samzmann |
-
-
-Update the existing Survival Guide and communicate it to participants.
-The current guide is pretty complete, so this is a pretty easy peasy role.
-
-
-  
-  ------
-  
-  
-
 # Dreams Apprentice
 
 | Circle       | 👇 Contact to apply 👇 |
@@ -346,61 +280,6 @@ I wrote a playbook. Pretty much every detail about the Dreams Realizer Role (how
 
 
 You will coordinate the build and management of 2 or 3 pissing stations for FLINTA people.
-
-
-  
-  ------
-  
-  
-
-# Production Transport (possibly 2 people)
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Infrastructure    | @samzmann |
-
-
-- Coordinate the transportation of a large volume of equipment from Berlin and our storage location to Freiland, and back after the event.
-- Coordinate with other leads to see what transportation needs they have.
-Requirement:
-- a regular driver’s license
-- be comfortable with driving a large van/small truck
-
-
-
-  
-  ------
-  
-  
-
-# Perimeter Lead
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Infrastructure    | @samzmann |
-
-
-- Go around the site to mark its limits.
-- Mark the No Go Zones.
-
-
-
-  
-  ------
-  
-  
-
-# Volunteer Kitchen (during event)
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| People    | @samzmann |
-
-
-Coordinate feeding the First Aid and Security people during the event (10-15 people).
-
-## Learn more
-https://wiki.kiezburn.org/doc/dreams-3xWOyL398o
 
 
   
