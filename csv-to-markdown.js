@@ -1,31 +1,8 @@
-const fs = require('fs');
 const path = require('path');
-const axios = require('axios');
-const parse = require('csv-parse').parse;
+const {writeOutputFile, copyToClipboard, fetchAndParseCSV} = require("./utils");
 
-// const clipboardy = require('clipboardy')
-
+const csvUrl = 'https://docs.google.com/spreadsheets/d/1D3V15hz2pW_Or9iCVGGAhC62PuxRG4IyQGT9yqjG4gU/export?format=csv&gid=0';
 const outputFile = path.join(__dirname, 'output.md');
-
-function writeOutputFile(content) {
-  fs.writeFile(outputFile, content, (err) => {
-    if (err) {
-      console.error('Error writing output file:', err);
-      return;
-    }
-    console.log('Output file saved as output.md');
-  });
-}
-
-async function copyToClipboard(data) {
-  try {
-    const clipboardy = await (await import('clipboardy')).default;
-    clipboardy.writeSync(data);
-    console.log('Content copied to clipboard');
-  } catch (error) {
-    console.error('Error loading clipboardy:', error);
-  }
-}
 
 const formatImportanceNotice = (importance) => {
   const [level, label] = importance.split(' - ');
@@ -85,7 +62,7 @@ ${separator}
 `;
 }
 
-const getPageIntroMardown = () => {
+const getPageIntroMarkdown = () => {
   return `
 # Open Lead/Realizer roles for Kiez Burn 2023!
 This is a list of important roles that need to be filled to make Kiez Burn happen.
@@ -128,63 +105,44 @@ const getHighPriorityRolesMarkdown = (entries) => {
 
 // Format the data as Markdown
 function formatMarkdown(entries) {
-    let markdown = getPageIntroMardown();
+  let markdown = getPageIntroMarkdown();
 
-    markdown += getHighPriorityRolesMarkdown(entries);
+  markdown += getHighPriorityRolesMarkdown(entries);
 
-    entries.forEach((entry) => {
-      const {
-        'Playbook link': playbookLink,
-        'This year contact': thisYearContacts,
-        Circle,
-        Description,
-        Importance,
-        Role,
-        Status
-      } = entry;
+  entries.forEach((entry) => {
+    const {
+      'Playbook link': playbookLink,
+      'This year contact': thisYearContacts,
+      Circle,
+      Description,
+      Importance,
+      Role,
+      Status
+    } = entry;
 
-      if (Status !== "Open") {
-        return
-      }
+    if (Status !== "Open") {
+      return
+    }
 
-      const formattedEntry = entryTemplate({
-        circle: Circle,
-        description: Description,
-        importance: Importance,
-        playbookLink,
-        role: Role,
-        thisYearContacts,
-      });
-      markdown += formattedEntry;
+    const formattedEntry = entryTemplate({
+      circle: Circle,
+      description: Description,
+      importance: Importance,
+      playbookLink,
+      role: Role,
+      thisYearContacts,
     });
-    return markdown;
-  }
-
-
-
-const csvUrl = 'https://docs.google.com/spreadsheets/d/1D3V15hz2pW_Or9iCVGGAhC62PuxRG4IyQGT9yqjG4gU/export?format=csv&gid=0';
-
-// Function to fetch and parse CSV data
-async function fetchAndParseCSV() {
-  try {
-    const response = await axios.get(csvUrl);
-    const csvData = response.data;
-
-    parse(csvData, { columns: true}, (err, records) => {
-      if (err) {
-        console.error('Error parsing CSV data:', err);
-        return;
-      }
-
-      // Call formatMarkdown function here
-      markdown = formatMarkdown(records);
-      writeOutputFile(markdown)
-      copyToClipboard(markdown);
-    });
-  } catch (error) {
-    console.error('Error fetching CSV data:', error);
-  }
+    markdown += formattedEntry;
+  });
+  return markdown;
 }
 
-// Call fetchAndParseCSV to fetch and parse the CSV data
-fetchAndParseCSV();
+async function fetchFileAndFormatMarkdown() {
+  const records = await fetchAndParseCSV(csvUrl)
+
+  const markdown = formatMarkdown(records);
+  writeOutputFile(outputFile, markdown)
+  await copyToClipboard(markdown);
+}
+
+fetchFileAndFormatMarkdown().then().catch()

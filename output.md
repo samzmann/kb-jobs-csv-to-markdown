@@ -24,8 +24,6 @@ If you wanna post an open role to this page, read the documentation [here](https
 
 🔴 Toilet Co-leads
 
-🔴 Security Lead
-
 🔴 Site liaison assistant
 
 
@@ -39,7 +37,7 @@ If you wanna post an open role to this page, read the documentation [here](https
 
 - Coordinate the transportation of a large volume of equipment from Berlin and our storage location to Freiland, and back after the event.
 - Coordinate with other leads to see what transportation needs they have.
-Requirement:
+### Requirements
 - a regular driver’s license
 - be comfortable with driving a large van/small truck
 
@@ -69,26 +67,6 @@ Requirement:
 - method of independent transport (car/van) ideal but not required (e.g. for emergency purchases)
 ## Learn more
 https://wiki.kiezburn.org/doc/toilets-Jm6tboWTt9
-
-
-  
-  ------
-  
-  
-
-# Security Lead
-
-| Circle       | 👇 Contact to apply 👇 |
-| ------------ | --------------- |
-| Safety Blanket    | @samzmann |
-
-**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
-
-Get in touch with the security company and make sure they have what they need on site.
-### Requirements
-- Speak German
-- Resilience to toxic masculinity
-
 
 
   
