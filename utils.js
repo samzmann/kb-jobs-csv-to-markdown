@@ -8,7 +8,7 @@ function writeOutputFile(outputFile, content) {
       console.error('Error writing output file:', err);
       return;
     }
-    console.log('Output file saved as output.md');
+    console.log('Output file created:', outputFile);
   });
 }
 

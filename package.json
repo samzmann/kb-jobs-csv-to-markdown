@@ -9,7 +9,8 @@
     "csv-parse": "^5.3.6"
   },
   "scripts": {
-    "gen": "node csv-to-markdown.js"
+    "gen": "node csv-to-markdown.js",
+    "gen-print": "node generate-printable-markdown.js"
   },
   "license": "UNLICENSED"
 }
