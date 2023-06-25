@@ -20,18 +20,49 @@ If you wanna post an open role to this page, read the documentation [here](https
 
 ## Super high priority roles
 
+🔴 Tool-Bitch (Toolhouse Co-Lead)
+
 🔴 Production Transport (possibly 2 people)
 
 🔴 Toilet Co-leads
 
-🔴 Site liaison assistant
+🔴 Storage Lead
 
+🔴 Site liaison Lead
+
+
+# Tool-Bitch (Toolhouse Co-Lead)
+
+| Circle       | 👇 Contact to apply 👇 |
+| ------------ | --------------- |
+| Infrastructure    | Leo @leopersephone (Discord) |
+
+**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
+
+Toolhouse needs you! 
+Did you know that KiezBurn provides manual and power tools for the general build, dreams and more? 
+
+Well we do. To make this smoothe, we need a new Tool-Bitch (or king/queen/princess/slave ...) who shares the role with our current Tool-Queen Leo.
+
+You're the person for this job if you are
+- capable and knowledgeable of handling power tools in a safe way, including maintenance such as replacing chain saw chains, auger bits and so on
+- have 1 or 2 days capacity pre burn (asap) to research replacement bits and pieces, shop in hardware stores and coordinate this with the budget person, as well as do some small repairs (also possible during build)
+- are available during build and best case also strike for 2-4 hours a day (flexible) to sit around in the sun and handing out tools, yelling at underworld to bring the ladder back, helping tool-newbies to handle them safely and signing lists.
+- extra points if you are tall and strong (tools in storage are above head lifting) and can support in organizing getting the tools to site (coordinating with transport lead or bringing them yourself or helping Leo to bring them)
+
+Safety third 😉
+
+
+  
+  ------
+  
+  
 
 # Production Transport (possibly 2 people)
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| Infrastructure    | @samzmann |
+| Infrastructure    | Diarmaid @BlueKB (Telegram) |
 
 **Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
 
@@ -52,7 +83,7 @@ If you wanna post an open role to this page, read the documentation [here](https
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| Infrastructure    | @samzmann |
+| Infrastructure    | Jack Smoothie#5736 (Discord) |
 
 **Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
 
@@ -74,11 +105,32 @@ https://wiki.kiezburn.org/doc/toilets-Jm6tboWTt9
   
   
 
-# Site liaison assistant
+# Storage Lead
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| Hard Facts    | @samzmann |
+| Infrastructure    | @samzmann |
+
+**Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
+
+Storage lead needed!
+Your tasks will be:
+- checking in with Kieze who have storage spaces, make sure that they either come back or take care of their shits.
+- the storage should be empty by the beginning of the event. 
+- follow up with contracts
+- have some capacity during build and strike to check what's going on there.
+
+
+  
+  ------
+  
+  
+
+# Site liaison Lead
+
+| Circle       | 👇 Contact to apply 👇 |
+| ------------ | --------------- |
+| Hard Facts    | Kate @kaliope |
 
 **Importance:** 🔥 Event critical (aka This MUST be done for KB to happen!)
 
@@ -102,7 +154,7 @@ https://wiki.kiezburn.org/doc/site-liaison-0s2IonUk9Z
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| Infrastructure    | @samzmann |
+| Infrastructure    | Ancka Sustainability@kiezburn.org |
 
 **Importance:** ✋ Too Big To Fail (aka Shit will get nasty if this is not done...)
 
@@ -149,7 +201,7 @@ The current guide is pretty complete, so this is a pretty easy peasy role.
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| Hard Facts    | @samzmann |
+| Hard Facts    | Kate @kaliope (Telegram) |
 
 **Importance:** Nice to have (This is kinda taken care of, but we'd really appreciate support!)
 
@@ -168,7 +220,7 @@ The current guide is pretty complete, so this is a pretty easy peasy role.
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| No Footprint    | @samzmann |
+| No Footprint    | Ezer erez#3116 (Discord) eschmerler@gmail.com +491633129533 |
 
 **Importance:** Nice to have (This is kinda taken care of, but we'd really appreciate support!)
 
@@ -230,7 +282,7 @@ https://wiki.kiezburn.org/doc/permit-categories-cTvMRZBYWV
 
 | Circle       | 👇 Contact to apply 👇 |
 | ------------ | --------------- |
-| Creative    | @samzmann |
+| Creative    | Mel TheBalloonLady#0715 (Discord), or @theballoonlady (Telegram) |
 
 
 Hi, it’s Mel  🎈

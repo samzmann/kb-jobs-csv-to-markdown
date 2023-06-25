@@ -112,7 +112,7 @@ function formatMarkdown(entries) {
   entries.forEach((entry) => {
     const {
       'Playbook link': playbookLink,
-      'This year contact': thisYearContacts,
+      'This year contact': thisYearContact,
       Circle,
       Description,
       Importance,
@@ -130,7 +130,7 @@ function formatMarkdown(entries) {
       importance: Importance,
       playbookLink,
       role: Role,
-      thisYearContacts,
+      thisYearContact,
     });
     markdown += formattedEntry;
   });
