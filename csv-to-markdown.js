@@ -81,7 +81,9 @@ If you wanna post an open role to this page, read the documentation [here](https
 ------------
 
 # Tickets
-⚠️ We are holding tickets for people who take on important orga roles. If you wanna support but could not purchase a ticket, reach out to @samzmann and we will make a ticket available for you!
+⚠️ If you really want to take a Lead role, but don’t have a ticket, reach out to @samzmann and we will make a ticket available for you!
+
+If you don’t have a ticket, and are considering taking a Lead role just to get a ticket... please don’t. Just get on the waitlist and ask around. You’ll get a ticket there in a few days/weeks.
 
 `
 }
